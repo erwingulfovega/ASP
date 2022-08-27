@@ -1,0 +1,28 @@
+a. dotnet new -> lista todos los comandos y tecnologías sobre los cuales puedo generar un nuevo proyecto
+
+b. dotnet new console, donde console espefica el tipo de proyecto que voy a crear
+
+c. dotnet run -> ejecuta el proyecto
+
+d. dotnet build ->ejecuta y analiza el código para generar una dll propia de netcore, hace las veces de un ejecutable
+
+e. dotnet build -c Release -r win10-x64 genera un instalador optimizado de win10, se debe ejecutar en la carpeta raíz del proyecto, en ese ejemplo C:\ASP\ASP\fundamentosCsharp\ejercicio1\, al final de la ejecución debe crearse una nueva carpeta llamada Release dentro de la carpeta bin
+
+f. dotnet new console --output ejercicio2, permite crear un nuevo proyecto y especificar el nombre de la carpeta donde lo quiero generar.
+
+
+Shortcuts
+props crear un nuevo atributo en la clase = public int MyProperty { get; set; }
+cwl crear una nueva Console.WriteLine($"{}")
+f2 = renombre cualquier variable o nombre de función dentro de c#.
+formatear el código = click derecho seleccionar la opción Format Document
+Ctrl + K+ C poner un comentario un segmento de código
+Ctrl + K+ U quitar un comentario un segmento de código
+Comenterio de múltiples líneas /**/
+
+Relacionar comentarios ///<SUMMARY> sobre algún metodo
+
+
+Operadores
+
+docs.microsoft.com/es-es/dotnet/csharp/language-reference/operators/

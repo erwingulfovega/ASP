@@ -1,0 +1,2 @@
+Integrar Plantilla AspNetCore
+dotnet new mvc -o AspNetCore21AdminLTE

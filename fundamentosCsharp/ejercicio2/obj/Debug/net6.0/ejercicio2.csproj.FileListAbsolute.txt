@@ -1,0 +1,15 @@
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\bin\Debug\net6.0\ejercicio2.exe
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\bin\Debug\net6.0\ejercicio2.deps.json
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\bin\Debug\net6.0\ejercicio2.runtimeconfig.json
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\bin\Debug\net6.0\ejercicio2.dll
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\bin\Debug\net6.0\ejercicio2.pdb
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.csproj.AssemblyReference.cache
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.AssemblyInfoInputs.cache
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.AssemblyInfo.cs
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.dll
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\refint\ejercicio2.dll
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.pdb
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ejercicio2.genruntimeconfig.cache
+C:\ASP\ASP\fundamentosCsharp\ejercicio2\obj\Debug\net6.0\ref\ejercicio2.dll
