@@ -11,21 +11,29 @@
 
                     <!-- menu profile quick info
                     <partial name="_Navmenu" />-->
-                    @Html.Raw(System.IO.File.ReadAllText("Views/Home/_NavMenu.cshtml"))
+                    @{
+                        Html.RenderPartial("_NavMenu");
+                    }
                     <!-- /menu profile quick info -->
                     <br />
                     <!-- sidebar menu -->
-                    @Html.Raw(System.IO.File.ReadAllText("Views/Home/_Sidebar.cshtml"))
+                    @{
+                        Html.RenderPartial("_Sidebar");
+                    }
                     <!-- /sidebar menu -->
-                    <!-- /menu footer buttons -->            
-                    @Html.Raw(System.IO.File.ReadAllText("Views/Home/_MenuFooterButtons.cshtml"))
+                    <!-- /menu footer buttons -->
+                    @{
+                        Html.RenderPartial("_MenuFooterButtons");
+                    }
                     <!-- /menu footer buttons -->
                     
                 </div>
             </div>
             
             <!-- top navigation -->
-            @Html.Raw(System.IO.File.ReadAllText("Views/Home/_Navbar.cshtml"))
+            @{
+                Html.RenderPartial("_Navbar");
+            }
             <!-- /top navigation -->
             <!-- page content -->
             <div class="right_col" role="main">
@@ -33,7 +41,9 @@
             </div>
             <!-- /page content -->
             <!-- footer content -->
-            @Html.Raw(System.IO.File.ReadAllText("Views/Home/_Footer.cshtml"))
+            @{
+                Html.RenderPartial("_Footer");
+            }
             <!-- /footer content -->
         </div>
     </div>

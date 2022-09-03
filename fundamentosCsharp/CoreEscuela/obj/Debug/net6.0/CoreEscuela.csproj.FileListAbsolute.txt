@@ -1,0 +1,15 @@
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\bin\Debug\net6.0\CoreEscuela.exe
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\bin\Debug\net6.0\CoreEscuela.deps.json
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\bin\Debug\net6.0\CoreEscuela.runtimeconfig.json
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\bin\Debug\net6.0\CoreEscuela.dll
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\bin\Debug\net6.0\CoreEscuela.pdb
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.csproj.AssemblyReference.cache
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.AssemblyInfoInputs.cache
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.AssemblyInfo.cs
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.dll
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\refint\CoreEscuela.dll
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.pdb
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\CoreEscuela.genruntimeconfig.cache
+C:\ASP\ASP\fundamentosCsharp\CoreEscuela\obj\Debug\net6.0\ref\CoreEscuela.dll

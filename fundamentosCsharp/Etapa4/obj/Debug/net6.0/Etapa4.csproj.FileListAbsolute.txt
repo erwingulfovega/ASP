@@ -1,0 +1,15 @@
+C:\ASP\ASP\fundamentosCsharp\Etapa4\bin\Debug\net6.0\Etapa4.exe
+C:\ASP\ASP\fundamentosCsharp\Etapa4\bin\Debug\net6.0\Etapa4.deps.json
+C:\ASP\ASP\fundamentosCsharp\Etapa4\bin\Debug\net6.0\Etapa4.runtimeconfig.json
+C:\ASP\ASP\fundamentosCsharp\Etapa4\bin\Debug\net6.0\Etapa4.dll
+C:\ASP\ASP\fundamentosCsharp\Etapa4\bin\Debug\net6.0\Etapa4.pdb
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.csproj.AssemblyReference.cache
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.AssemblyInfoInputs.cache
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.AssemblyInfo.cs
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.csproj.CoreCompileInputs.cache
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.dll
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\refint\Etapa4.dll
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.pdb
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\Etapa4.genruntimeconfig.cache
+C:\ASP\ASP\fundamentosCsharp\Etapa4\obj\Debug\net6.0\ref\Etapa4.dll
