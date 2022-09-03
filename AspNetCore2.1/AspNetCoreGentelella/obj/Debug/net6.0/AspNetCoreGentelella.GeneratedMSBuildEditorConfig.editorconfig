@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspNetCoreGentelella
 build_property.RootNamespace = AspNetCoreGentelella
-build_property.ProjectDir = C:\ASP\ASP\AspNetCore2.1\AspNetCoreGentelella\
+build_property.ProjectDir = c:\ASP\ASP\AspNetCore2.1\AspNetCoreGentelella\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\ASP\ASP\AspNetCore2.1\AspNetCoreGentelella
+build_property.MSBuildProjectDirectory = c:\ASP\ASP\AspNetCore2.1\AspNetCoreGentelella
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Home/Index.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Home/Privacy.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Login/Index.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/Error.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Footer.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_MenuFooterButtons.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_MenuFooterButtons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51Rm9vdGVyQnV0dG9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Navbar.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Navmenu.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Navmenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZtZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Sidebar.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/_ViewImports.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/_ViewStart.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Layout.cshtml]
+[c:/ASP/ASP/AspNetCore2.1/AspNetCoreGentelella/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j8s4yvlrp8

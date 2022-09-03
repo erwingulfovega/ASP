@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!-- Meta, title, CSS, favicons, etc. -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        @*<link rel="icon" href="images/favicon.ico" type="image/ico" />*@
+
+        <title>@ViewBag.Title | Gentelella Alela!</title>
+
+        <!-- Bootstrap -->
+        <link href="~/Gentelela/Vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+        <!-- Font Awesome -->
+        <link href="~/Gentelela/Vendors/fontawesome/css/font-awesome.min.css" rel="stylesheet" />
+        <!-- NProgress -->
+        <link href="~/Gentelela/Vendors/nprogress/nprogress.css" rel="stylesheet" />
+
+        <link href="~/Gentelela/Vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet" />
+
+        <link href="~/Gentelela/Vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet" />
+
+        <!-- Custom Theme Style -->
+        <link href="~/Gentelela/Content/Gentelela/css/custom.min.css" rel="stylesheet" />
+
+        @RenderSection("styles", required: false)
+
+    </head>
+    <body>
+    @RenderBody()
+    </body>
+
+<!-- Scripts -->
+<script src="~/Gentelela/Vendors/jquery/jquery.min.js"></script>
+<script src="~/Gentelela/Vendors/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/Gentelela/Vendors/nprogress/nprogress.js"></script>
+
+<script src="~/Gentelela/Vendors/Chart.js/dist/Chart.min.js"></script>
+<!-- gauge.js -->
+<script src="~/Gentelela/vendors/gauge.js/dist/gauge.min.js"></script>
+
+<script src="~/Gentelela/Vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+
+<!-- Flot -->
+<script src="~/Gentelela/Vendors/Flot/jquery.flot.js"></script>
+<script src="~/Gentelela/Vendors/Flot/jquery.flot.pie.js"></script>
+<script src="~/Gentelela/Vendors/Flot/jquery.flot.time.js"></script>
+<script src="~/Gentelela/Vendors/Flot/jquery.flot.stack.js"></script>
+<script src="~/Gentelela/Vendors/Flot/jquery.flot.resize.js"></script>
+
+<!-- Flot plugins -->
+<script src="~/Gentelela/Vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+<script src="~/Gentelela/Vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+<script src="~/Gentelela/Vendors/flot.curvedlines/curvedLines.js"></script>
+
+<!-- DateJS -->
+<script src="~/Gentelela/Vendors/DateJS/build/date.js"></script>
+
+<script src="~/Gentelela/Vendors/moment/min/moment.min.js"></script>
+<script src="~/Gentelela/Vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+<script src="~/Gentelela/Content/Gentelela/js/custom.js"></script>
+
+@RenderSection("scripts", required: false)
+
+</html>
